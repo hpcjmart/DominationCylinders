@@ -3,6 +3,11 @@
 
 **DominationCylinders** is a research-oriented software suite for studying domination problems in cylindrical graphs. This repository provides tools and libraries for generating words, constructing matrices, and performing advanced computations related to domination in cylindrical graph structures.
 
+To appear in: 
+
+- ARS MATHEMATICA CONTEMPORANEA : The Journal Ars Mathematica Contemporanea (AMC) is a diamond (platinum) open access journal in which neither the authors nor the readers incur any costs. Since 2025, the journal is available in electronic format only. (Until 2025, it was published in both print and electronic formats.)
+
+
 ## Features
 
 - Efficient generation of word representations for cylindrical graphs.
