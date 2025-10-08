@@ -7,6 +7,7 @@ To appear in:
 
 - ARS MATHEMATICA CONTEMPORANEA : The Journal Ars Mathematica Contemporanea (AMC) is a diamond (platinum) open access journal in which neither the authors nor the readers incur any costs. Since 2025, the journal is available in electronic format only. (Until 2025, it was published in both print and electronic formats.)
 
+- Domination in cylindrical graphs. J. A. Martínez, M. Mora, M. Luz Puertas and J. Tejel. DOI: https://doi.org/10.26493/1855-3974.3608.fc9
 
 ## Features
 
